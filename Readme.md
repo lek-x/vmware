@@ -41,4 +41,4 @@ When terraform ends working it'll show you local VM's ip and password
 
 ## License
 
-GPL v3
+GNU GPL v3
